@@ -1,0 +1,25 @@
+MASTER OF ONION by Eemeli Kantola (e-mail: ekantola ät iki.fi)
+
+Fairly simple 2D space shoot-'em-up multiplayer game. Has an instant laser
+not found in many games, too :)
+
+Some critical stuff is missing, as I have lost the most recent source code
+due to lack of backups. If you want to play a different level, rename a file
+to "mushroom.lev" or hack the source.
+
+
+Compiling:
+
+$ make
+
+You need development files for Allegro (at least 4.0 and 4.2 work),
+SDL 1.2 and XFree86 (4.x, I think). As the game was ported from DOS and
+Allegro 3.x, it could work with minor or no changes with earlier versions
+of the libs, too.
+
+
+Running:
+
+$ ./moon
+
+You can configure the settings in "moon.cfg".

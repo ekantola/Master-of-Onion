@@ -1,0 +1,12 @@
+moon (1.0.1) unstable; urgency=low
+
+  * Modified build scripts to enable building at least on Ubuntu 11.10
+
+-- Eemeli Kantola <eemeli.kantola@iki.fi>  Sat, 10 Mar 2012 16:47:00 +0200
+
+moon (1.0.0) unstable; urgency=low
+
+  * Initial Linux release, based on the original DOS sources
+
+-- Eemeli Kantola <eemeli.kantola@iki.fi>  Fri, 22 Sep 2006 01:00:00 +0300
+
